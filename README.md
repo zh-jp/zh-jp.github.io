@@ -1,2 +1,3 @@
-# zh-jp.github.io
+title: Hello
+github_username: zh-jp
 Personal Homepage
